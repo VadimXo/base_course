@@ -1,0 +1,7 @@
+a = float(input())
+r = float(input())
+n = int(input())
+for i in range(n):
+    term = a * r **i
+    print(a * r ** i)
+    
